@@ -26,3 +26,4 @@ Test ui available at http://localhost:3001
 - [replicant](https://github.com/cjohansen/replicant)
 - [tailwind](https://github.com/tailwindlabs/tailwindcss)
 - [daisy](https://github.com/saadeghi/daisyui)
+- [karma](https://github.com/karma-runner/karma)
