@@ -1,6 +1,6 @@
 # replicant-tailwind-example
 
-Minimal replicant and tailwind example, with shadow-cljs (and daisyUI for css components).
+Minimal replicant and tailwind example, with shadow-cljs (and daisyUI for css components) based on [7 UIs with Replicant, Ep 1: Counter](https://youtu.be/kUvd1o6w0Hc?si=J_2ezeIcZy4hDHvY) from [Replicant TV](https://www.youtube.com/@replicant-clj).
 
 ## How to use
 ```bash
